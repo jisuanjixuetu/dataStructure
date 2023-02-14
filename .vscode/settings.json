@@ -1,0 +1,11 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true,
+    "docify.programmingLanguage": "c",
+    "docify.intelligentDetection": true,
+    "docify.expressiveComment": true,
+    "files.associations": {
+        "stdbool.h": "c"
+    },
+    "backgroundCover.autoStatus": true,
+}
